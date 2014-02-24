@@ -6,4 +6,4 @@ This repository holds course materials for my [American Politics Seminar](http:/
 
 Read more about why this course is on GitHub [here](fork.md).
 
-[![Build Status](https://travis-ci.org/leeper/regcourse.png?branch=gh-pages)](https://travis-ci.org/leeper/regcourse)
+[![Build Status](https://travis-ci.org/leeper/ampolcourse.png?branch=gh-pages)](https://travis-ci.org/leeper/ampolcourse)
