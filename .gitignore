@@ -1,0 +1,8 @@
+# subdirectories to ignore #
+Misc/
+
+# filetypes to ignore #
+*.docx
+
+# files to ignore #
+*.*
