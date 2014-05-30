@@ -1,6 +1,6 @@
 \documentclass[12pt,a4paper]{article}
 \usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
-\usepackage{graphicx,setspace,hyperref,amsmath,amsfonts,multirow,ccaption,mdwlist,comment}
+\usepackage{graphicx,setspace,hyperref,mdwlist,comment}
 % mini table of contents
 \usepackage{minitoc}
 \dosecttoc % make section toc
@@ -13,7 +13,7 @@
 % Two lines to create in-text full citations for a syllabus
 % And comment out my other standard bibtex commands
 \usepackage{bibentry}
-\newcommand{\reading}[2][]{\noindent --{#1} from \bibentry{#2}.\vspace{.25em}\\}
+\newcommand{\reading}[2][]{\noindent --{#1} \bibentry{#2}.\vspace{.25em}\\}
 \newcommand{\seealso}{\noindent \emph{See Also:}\\}
 \newcommand{\topic}[1]{\noindent \textbf{#1}\\}
 \usepackage[T1]{fontenc}
@@ -111,7 +111,7 @@ The general schedule for the course is as follows. Note that our first class mee
 -- Paine, Thomas. (1776). Common Sense: Thoughts on the Present State of American Affairs. Available at: \url{http://www.gutenberg.org/files/3755/3755-h/3755-h.htm#chap3}
 -- The Articles of Confederation (1778)\\
 
-{\em On the American Constitution}:\\
+\noindent {\em On the American Constitution}:\\
 -- The Constitution of the United States of America (1787)\\
 \reading[Ch.1 (27--49) from ]{Maier2010}
 \reading[1--2, 10, 45, 65, 69, 70 from ]{FederalistPapers}
@@ -171,30 +171,27 @@ The general schedule for the course is as follows. Note that our first class mee
 \clearpage
 \subsection{The Presidency and Executive Branch (Week 40)}
 \emph{What powers does the President have? And can the President do with those powers? How does the President respond to and influence American politics?}
+% Frontline: Cheney's War
+
 \vspace{1em}
 \subsubsection*{Readings}
 \reading{RagsdaleTheis1997}
 \reading[Selections from ]{Neustadt1960}
 \reading[Selections from ]{Cameron2000}
-% John B. Gilmour (2011), \Political Theater or Bargaining Failure: Why Presidents Veto," Presidential Studies Quarterly
 
 \reading{CanesWrone2001}
 \reading{BaumKernell1999}
-% Cohen, Jeffrey E. 1995. “Presidential Rhetoric and the Public Agenda.” American Journal of Political Science 39:87-107.
-
+\reading{Cohen1995} % Presidential Rhetoric and the Public Agenda
 
 \reading{McCubbinsSchwartz1984}
 \reading{Moe1987}
-
-% Terry Moe, “Political Control and the Power of the Agent,” Journal of Law, Economics and Politics, 2005. 21(1): 1-29.
-
-% Something on the imperial presidency; unitary executive
-\reading{Cooper2005}
-% Frontline: Cheney's War
+\reading{Cooper2005} % signing statements
 
 \seealso
+% Terry Moe, “Political Control and the Power of the Agent,” Journal of Law, Economics and Politics, 2005. 21(1): 1-29.
 \reading{WhittingtonCarpenter2003}
-
+\reading{JacobsShapiro1995a}
+\reading{JacobsShapiro1995b}
 
 
 
@@ -204,31 +201,26 @@ The general schedule for the course is as follows. Note that our first class mee
 
 \vspace{1em}
 \subsubsection*{Readings}
-
-\reading{HowardSegal2002}
-
-\reading{HuberGordon2004} % elections and judicial punitiveness
-% Maybe Vince Hutchings paper
+\reading{HowardSegal2002} % originalism
+\reading{KnightEpstein1996} % “The norm of stare decisis”
+\reading{MondakSmithey1997} % public opinion
 \reading{GibsonCaldeiraSpence2003} % Bush v. Gore and legitimacy
-
-
-% Maybe JohnsonMartin1998
-
-% Jeffrey A. Segal, and Harold J. Spaeth,“The influence of stare decisis on the votes of United States Supreme Court justices,” American Journal of Political Science, vol. 40 (1996), pp. 971-1003.
-
-% Justin Crowe, “The Forging of Judicial Autonomy,” Journal of Politics 69 (February 2007): 73-87.
-
 \reading{BinderMaltzman2002} % Senate delays in judicial appointments
-% Lee Epstein, Rene Lindstadt, Jerey A. Segal, and Chad Westerland (2006), "The Changing Dynamics of Senate Voting on Supreme Court Nominees," Journal of Politics
-
+\reading{HuberGordon2004} % elections and judicial punitiveness
 
 \seealso
 \reading{Dahl1957} % Journal of Public Law
-% McCulloch v. Maryland
-% Ken I. Kersch, “The Reconstruction of Constitutional Privacy Rights and the New American State,” Studies in American Political Development 16 (Spring 2002), 61-87.
-% Jeffrey A. Segal,“Separation of powers games in the positive theory of law and the courts,” American Political Science Review, vol. 91 (1997), pp. 28–44.
-% Jack Knight and Lee Epstein, “The norm of stare decisis,” American Journal of Political Science, vol. 40 (1996), pp. 1018–1035.
+\reading{McCloskey2000}
+\reading{JohnsonMartin1998} % public opinion in response to court decisions
+\reading{SegalSpaeth1996} % “The influence of stare decisis on the votes of United States Supreme Court justices”
 
+% McCulloch v. Maryland
+\reading{Kersch2002} % “The Reconstruction of Constitutional Privacy Rights and the New American State”
+% Jeffrey A. Segal,“Separation of powers games in the positive theory of law and the courts,” American Political Science Review, vol. 91 (1997), pp. 28–44.
+
+\reading{Hutchings2001} % Clarence Thomas vote
+\reading{Epsteinetal2006} % "The Changing Dynamics of Senate Voting on Supreme Court Nominees"
+% Justin Crowe, “The Forging of Judicial Autonomy,” Journal of Politics 69 (February 2007): 73-87.
 
 
 
@@ -244,31 +236,27 @@ The general schedule for the course is as follows. Note that our first class mee
 
 \vspace{1em}
 \subsubsection*{Readings}
+% state politics
+\reading{HajnalGerberLouch2002} % Minorities and Direct Legislation: Evidence from California Ballot Proposition Elections
+\reading{Volden2006} % States as Policy Laboratories: Emulating Success in the Children’s Health Insurance Program
+\reading{MeinkeHasecke2003} % “Term Limits, Professionalization, and Partisan Control in U.S. State Legislatures.”
+\reading{EriksonWrightMcIver1989} % state opinion-policy congruence
+\reading{Rigby2012} % Obamacare resistance
+
+% city/local politics
 \reading{SchaffnerStrebWright2001} % turnout and partisan ballot
 % Something on local politics
-\reading{Dahl1961} % Who Governs?
-
+\reading[Selections from ]{Dahl1961} % Who Governs?
 \reading{GerberHopkins2011} % “When Mayors Matter: Estimating the Impact of Mayoral Partisanship on City Policy.”
-
-% something by Eric Oliver
-% Oliver, J. Eric and Shang E. Ha. 2007. “Vote Choice in Suburban Elections,”  The American Political Science Review 101(3): 393-408. 
-
-% Gerald Wright and Brian Schaffner, “The Influence of Party: Evidence from the State Legislatures,” American Political Science Review, 2002. 96 (2): 367-379.
-\reading{Volden2006} % Craig Volden, “States as Policy Laboratories: Emulating Success in the Children’s Health Insurance Program,” American Journal of Political Science, 2006. 50 (2): 294-312.
-
-% King, James D. 2000. “Changes in Professionalism in U.S. State Legislatures.” Legislative Studies Quarterly 25:327-343. 
-\reading{MeinkeHasecke2003} % “Term Limits, Professionalization, and Partisan Control in U.S. State Legislatures.”
-
-
-\reading{Rigby2012} % Obamacare resistance
-\reading{LaxPhillips2012} % The Democratic Deficit in the States
-
-\reading{HajnalGerberLouch2002} %http://onlinelibrary.wiley.com/doi/10.1111/1468-2508.00122/abstract
-
+% something about racial contact
+\reading{OliverHa2007} % Vote Choice in Suburban Elections
 
 \seealso
+% King, James D. 2000. “Changes in Professionalism in U.S. State Legislatures.” Legislative Studies Quarterly 25:327-343. 
 % something on nullification? http://en.wikisource.org/wiki/South_Carolina_Exposition_and_Protest
 \reading{ReganPriscilla2009} % REAL ID resistance
+\reading{WrightSchaffner2002} % The Influence of Party: Evidence from the State Legislatures
+\reading{LaxPhillips2012} % The Democratic Deficit in the States
 
 
 
@@ -290,8 +278,8 @@ The general schedule for the course is as follows. Note that our first class mee
 \reading{Fiorina1980} % Daedalus
 
 \seealso
-% Aldrich
-% Bawn et al. Theory of Parties
+\reading{Aldrich1995}
+\reading{Bawnetal2012} % Theory of Parties
 \reading{GreenPalmquistSchickler2004}
 
 
@@ -316,7 +304,7 @@ The general schedule for the course is as follows. Note that our first class mee
 \reading{EnosFowlerVavreck2014}
 \reading{Gelmanetal2007}
 \reading{McDonald2004} % Comparative Analysis of Redistricting Institutions
-% Citizens United v. Federal Election Commission (2010)
+\reading{Kang2010} % Citizens United v. Federal Election Commission (2010)
 
 \seealso
 \reading{Key1955} % or Burnham
@@ -329,7 +317,7 @@ The general schedule for the course is as follows. Note that our first class mee
 \reading{Gerberetal2011}
 \reading{GerberGreen2000}
 \reading{Hillygus2005}
-% Ground War
+\reading{Nielsen2012} % Ground Wars
 
 
 
@@ -338,15 +326,15 @@ The general schedule for the course is as follows. Note that our first class mee
 
 \clearpage
 \subsection{Elite and Mass Polarization (Week 46)}
-\emph{How politically polarized is hte United States? Where does polarization come from and what are its effects?}
+\emph{How politically polarized is the United States? Where does polarization come from and what are its effects?}
+
 \vspace{1em}
 \subsubsection*{Readings}
-
 \reading{APSA1950} % APSA Report
 \reading{FiorinaAbrams2008}
 \reading{Levendusky2009}
 \reading{PooleRosenthal1984}
-% primaries
+% something on primaries?
 \reading{Hetherington2001}
 \reading{DruckmanPetersonSlothuus2013}
 \reading{McCartyPooleRosenthall2009} % gerrymandering
@@ -375,7 +363,6 @@ The general schedule for the course is as follows. Note that our first class mee
 \reading{VerbaBurnsSchlozman2003} % Unequal at the Starting Line
 
 % Something about power of business
-% Citizens' United
 
 % Something about the welfare state?
 
@@ -395,10 +382,12 @@ The general schedule for the course is as follows. Note that our first class mee
 \clearpage
 \subsection{Politics of Race (Week 48)}
 \emph{In what ways to race influence political beliefs, attitudes, and behaviors? How are policies racialized and race politicized?}
+% Brown v. Board of Education (1954)
+
 \vspace{1em}
 \subsubsection*{Readings}
-\readings{HutchingsValentino2004}
-\readings[Volume I, Chapter 10 (316--407) from ]{deTocqueville2000}
+\reading{HutchingsValentino2004}
+\reading[Volume I, Chapter 10 (316--407) from ]{deTocqueville2000}
 \reading{Gilens1996} % “‘Race Coding’ and White Opposition to Welfare.”
 \reading{Kuklinskietal1997} % “Racial Prejudice and Attitudes toward Affirmative Action,”
 \reading{SearsHenslerSpeer1979} % Whie Opposition to Busing
@@ -406,8 +395,6 @@ The general schedule for the course is as follows. Note that our first class mee
 \reading{CameronEpsteinOHalloran1996} % “Do Majority-Minority Districts Maximize Black Substantive Representation in Congress?”
 \reading{WilliamsCollins2001} % racial disparities in health
 \reading{PettitWestern2004} % incarceration
-
-% Brown v. Board of Education (1954)
 
 
 \seealso
@@ -436,34 +423,26 @@ The general schedule for the course is as follows. Note that our first class mee
 \emph{Topic}
 \vspace{1em}
 \subsubsection*{Readings}
+
+% economic policy
 \reading{Hacker1998} % health policy
-\reading{MulliganGrantBennett2012}
-\reading{Adams1997}
 \reading{Bartels2005} % Homer gets a tax cut
-
 \reading{Kuklinskietal2000} % welfare information
-\reading{NyhanReifler2010} % misinfo
 
-
-
-\readings{Gainesetal2007} % partisan interpretation of Iraq
+% foreign policy
+\reading{Gainesetal2007} % partisan interpretation of Iraq
 % Terrorism: Hamdi v. Rumsfeld/Hamdan v. Rumsfeld
+\reading{JacobsPage2005}
 
 % Torture Memos/John Yoo
 % Addington/Executive privilege
 
 
 
-
-% FOREIGN POLICY?
+\seealso
 % Graham Allison, “Conceptual Models and the Cuban Missile Crisis,” American Political Science Review, 1969. 63(3): 689-718.
 % GroupThink
 % Analogical reasoning
-% Lawrence Jacobs and Benjamin Page, “Who Influences U.S. Foreign Policy?” American Political Science Review, 2005. 99 (1): 107-123.
-
-
-
-\seealso
 
 
 
@@ -480,20 +459,25 @@ The general schedule for the course is as follows. Note that our first class mee
 % immigration policy?
 
 
-
 % District of Columbia v. Heller (2008)
 % Lawrence v. Texas (2003)
+\reading{MulliganGrantBennett2012} % cultural issues
 
 \reading{LaxPhilips2009}
 \reading{NaginPepper2012} % NAP Report: DETERRENCE AND THE DEATH PENALTY
 
 % United States vs. Windsor (2013) and Scalia’s Dissent
 
+\seealso
+\reading{Adams1997} % abortion
 % Arceneaux State Politics and Policy Q 2002 on abortion
 
 
 
-\seealso
+
+
+
+
 
 
 
@@ -510,6 +494,6 @@ The general schedule for the course is as follows. Note that our first class mee
 
 % load bibtex, but don't generate a bibliography
 \bibliographystyle{plain}
-\nobibliography{Syllabi}
+\nobibliography{Syllabus}
 
 \end{document}
