@@ -8,7 +8,7 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
 
 The United States is a unique political system. It is one of the longest-running democracies in the world, has a relatively rare presidential system, is populated by a broad mix of racial, ethnic, religious, economic, and cultural groups, and takes an aggressive, frequently independent, role in other countries' affairs. This seminar dives into several important aspects of American democracy and politics to understand what shapes political activity in the United States. Students will leave the course with a deep understanding of the institutional, historical, philosophical, and cultural factors that shape American politics and will be able to better analyze policymaking and political events in the United States as a result. Broadly the course asks students to consider why things are the way they are in the United States and why things happen the way they do. In addressing these questions, the emphasis is placed on answering the questions "who has power in the United States?' and `what do they do with it?"
 
-This seminar is being taught as a master seminar at Aarhus University during Fall term 2014.
+This seminar is being taught as a master seminar at Aarhus University during Fall term 2014. We meet Thursdays 8:00-11:00 in Building 1325 room 136.
 
 ---
 ## Course Objectives and Syllabus ##
