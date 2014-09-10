@@ -26,28 +26,35 @@ The objectives for the course are as follows:
 You can find a schedule for the course, details of the exam structure, and assigned readings in the [Syllabus](Syllabus/Syllabus.pdf).
 
 ---
+## Slides, Notes, and In-class Activities ##
+
+ - Week 1: [Activity](Activities/Week1.pdf)
+
+
+---
 ## Readings ##
 
 Readings for the course involve book chapters (in the compendium) and journal articles available online.
 
----
-## Slides ##
+Some historical readings used in Session 2 ("The American Founding") can be downloaded at the links below:
 
-Forthcoming
-
-<!--Course slides are available in the [/Slides](Slides) directory.-->
-
+ * [Virginia Declaration of Rights](http://en.wikisource.org/wiki/Virginia_Declaration_of_Rights)
+ * [Declaration of Independence](http://en.wikisource.org/wiki/United_States_Declaration_of_Independence)
+ * [Thomas Paine's *Common Sense*](http://www.gutenberg.org/ebooks/3755)
+ * [Articles of Confederation and Perpetual Union](http://en.wikisource.org/wiki/Articles_of_Confederation_and_Perpetual_Union)
+ * [Constitution of the United States of America](http://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America)
+ * [The Federalist Papers](http://thomas.loc.gov/home/histdox/fedpapers.html)
+ 
 
 ---
 ## Assignments and Exam ##
 
-Students will be evaluated via an oral examination with a written synopsis. In preparation for the exam, students are expected to participate in weekly group presentations. These presentations will cover the week's reading material and involve leading a discussion on that material.
+Students will be evaluated via an oral examination with a written synopsis. Students will have an opportunity to share and receive peer feedback on their synopsis before the end of the course.
 
 ### Presentations ###
 
-### Exam ###
+In preparation for the exam, students are expected to participate in weekly group or individual presentations. These presentations will cover the week's reading material and involve leading a discussion on that material. Students should participate in 2--4 presentations over the course of the semester.
 
-The exam for the course involves an oral examination with a synopsis.
 
 ---
 ## Why GitHub? ##

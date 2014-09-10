@@ -2,6 +2,10 @@
 
 This repository holds course materials for my [American Politics Seminar](http://thomasleeper.com/ampolcourse) to be taught in Fall 2014 at Aarhus University.
 
+## Lesson Plans ##
+
+ - [Week 1](Lessons/Week1.md)
+
 ## Why GitHub? ##
 
 Read more about why this course is on GitHub [here](fork.md).
