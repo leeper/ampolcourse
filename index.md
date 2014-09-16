@@ -43,6 +43,8 @@ Some historical readings used in Session 2 ("The American Founding") can be down
  * [Thomas Paine's *Common Sense*](http://www.gutenberg.org/ebooks/3755)
  * [Articles of Confederation and Perpetual Union](http://en.wikisource.org/wiki/Articles_of_Confederation_and_Perpetual_Union)
  * [Constitution of the United States of America](http://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America)
+   * [Bill of Rights (Amendments I-X)](http://en.wikisource.org/wiki/United_States_Bill_of_Rights)
+   * [Additional Amendments (XI-XXVII)](http://en.wikisource.org/wiki/Additional_amendments_to_the_United_States_Constitution)
  * [The Federalist Papers](http://thomas.loc.gov/home/histdox/fedpapers.html)
  
 
