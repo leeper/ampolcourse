@@ -29,24 +29,20 @@ You can find a schedule for the course, details of the exam structure, and assig
 ## Slides, Notes, and In-class Activities ##
 
  - Week 1: [Activity](Activities/Week1.pdf)
+ - Week 2: The historical readings can be downloaded at the links below:
 
+   * [Virginia Declaration of Rights](http://en.wikisource.org/wiki/Virginia_Declaration_of_Rights)
+   * [Declaration of Independence](http://en.wikisource.org/wiki/United_States_Declaration_of_Independence)
+   * [Thomas Paine's *Common Sense*](http://www.gutenberg.org/ebooks/3755)
+   * [Articles of Confederation and Perpetual Union](http://en.wikisource.org/wiki/Articles_of_Confederation_and_Perpetual_Union)
+   * [Constitution of the United States of America](http://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America)
+     * [Bill of Rights (Amendments I-X)](http://en.wikisource.org/wiki/United_States_Bill_of_Rights)
+     * [Additional Amendments (XI-XXVII)](http://en.wikisource.org/wiki/Additional_amendments_to_the_United_States_Constitution)
+   * [The Federalist Papers](http://thomas.loc.gov/home/histdox/fedpapers.html)
 
----
-## Readings ##
+ - Week 3: [Slides](Slides/Week3.pdf)
+ - Week 4: [Neustadt Reading](https://dl.dropboxusercontent.com/u/414906/Neustadt.pdf)
 
-Readings for the course involve book chapters (in the compendium) and journal articles available online.
-
-Some historical readings used in Session 2 ("The American Founding") can be downloaded at the links below:
-
- * [Virginia Declaration of Rights](http://en.wikisource.org/wiki/Virginia_Declaration_of_Rights)
- * [Declaration of Independence](http://en.wikisource.org/wiki/United_States_Declaration_of_Independence)
- * [Thomas Paine's *Common Sense*](http://www.gutenberg.org/ebooks/3755)
- * [Articles of Confederation and Perpetual Union](http://en.wikisource.org/wiki/Articles_of_Confederation_and_Perpetual_Union)
- * [Constitution of the United States of America](http://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America)
-   * [Bill of Rights (Amendments I-X)](http://en.wikisource.org/wiki/United_States_Bill_of_Rights)
-   * [Additional Amendments (XI-XXVII)](http://en.wikisource.org/wiki/Additional_amendments_to_the_United_States_Constitution)
- * [The Federalist Papers](http://thomas.loc.gov/home/histdox/fedpapers.html)
- 
 
 ---
 ## Assignments and Exam ##

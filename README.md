@@ -6,6 +6,7 @@ This repository holds course materials for my [American Politics Seminar](http:/
 
  - [Week 1](Lessons/Week1.md)
  - [Week 2](Lessons/Week2.md)
+ - [Week 3](Lessons/Week3.md)
 
 ## Why GitHub? ##
 
