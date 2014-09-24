@@ -3,17 +3,12 @@ Misc/
 Syllabus/*.*
 Activities/*.*
 Slides/*.*
+Exam/*.*
 
 # filetypes to ignore #
 *.docx
 
 # files to ignore #
-!Activities/*.pdf
-!Activities/*.tex
-!Activities/*.bib
-!Syllabus/*.pdf
-!Syllabus/*.tex
-!Syllabus/*.bib
-!Slides/*.pdf
-!Slides/*.tex
-!Slides/*.bib
+!*.pdf
+!*.tex
+!*.bib
