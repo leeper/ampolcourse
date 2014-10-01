@@ -1,0 +1,144 @@
+---
+layout: default
+title: Week 4: Presidency and Executive Branch
+ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
+---
+
+# Presidency and Executive Branch #
+
+## Outline ##
+
+ - Finish up from last week
+   - Questions about Congress?
+   - Lobbying in Congress
+     - What factors shape how members vote?
+       - Party
+       - District
+       - President
+       - Lobbying
+       - Logrolling or vote-trading
+     - How would we detect lobbying influence?
+     - Is lobbying influence good or bad?
+ 
+ - Executive Branch
+   - Executive branch consists of many institutions
+     - Executive Office of the President
+       - Historically just President and personal staff
+       - Massive expansion
+       - Presentation: Ragsdale and Theis on institutionalization (Daniel)
+     - Executive Departments (originally only State and Treasury)
+       - Executive Departments sit in the Cabinet
+         - Leaders appointed w/ "advice and consent"
+         - Stand in the "order of succession" to the presidency
+       - Agriculture
+         - Forest service
+         - Food inspection
+       - Commerce
+         - Patent Office
+         - NOAA
+         - Census Bureau
+       - Defense
+         - 5 branches of the military plus civilian staff
+         - National Security Agency
+         - Joint Chiefs of Staff
+       - Education
+       - Energy
+         - National Laboratories
+       - Veterans Affairs
+         - "Veterans Administration" healthcare
+       - Health and Human Services
+         - Oversee Medicare and Medicaid
+         - Surgeon General
+         - NIH
+         - CDC
+         - Food and Drug Administration
+       - Homeland Security
+         - ICE
+         - Border Patrol
+         - TSA
+         - FEMA
+         - Secret Service
+         - Coast Guard
+       - Housing and Urban Development
+       - Interior
+         - National Parks
+         - Indian affairs
+       - Justice
+         - Attorney General
+         - FBI, DEA, ATF, Prisons
+       - Labor
+       - State
+       - Transportation
+       - Treasury
+         - IRS
+         - U.S. Mint
+         - etc.
+     - Independent agencies
+       - CIA
+       - Federal Election Commission
+       - NASA
+       - Environment Protection Agency
+       - Federal Reserve
+       - Securities and Exchange Commission
+       - Public companies
+         - Tennessee Valley Authority
+         - Corporation for Public Broadcasting
+         - National Endowement for the Arts
+         - US Postal Service
+         - Amtrak
+     - Size
+       - 2.7 million federal employees (civilian)
+       - 1.5 million uniformed armed forces
+       - 64,000 legislative and judicial branch employees
+     - Principles
+       - Historically a means of distributing patronage
+       - Since the 1890s, esp. since the latter half of 20th century is merit-based
+     
+     - Discussion
+       - Who controls the bureaucracy?
+       - Presentation: Moe on Congressional Dominance (Mikkel)
+
+ - Presidency
+   - Discussion
+     - What are the powers of the president?
+     - What factors matter for how the presidency operates?
+       - Influence of individual vs. institution
+   - Two types of powers
+     - Formal powers 
+       - Commander and chief of the military (Article II, Section 2)
+       - Nominate executive and judicial officials (Article II, Section 2)
+       - Sign treaties (Article II, Section 2)
+       - Veto (Article I, Section 7)
+         - Explicit veto
+         - Pocketbook veto
+       - "Take care that the laws be faithfully executed" (Article II, Section 3)
+       - "preserve, protect, and defend the Constitution of the United States" (Article II, Section 1)
+       - Presentations
+         - Cameron "Veto Bargaining" (Rikke)
+     - Informal powers
+       - Executive Orders
+       - National Security Directives
+       - Presidential Proclamations
+       - Signing Statements
+       - "Persuasion"/"Going Public"/"affect transfer"
+       - Often a party leader
+         - More so for the Republican party than the Democratic party
+       - Presentations/Discussion
+         - Neustadt on power (Francesca)
+         - Canes-Wrone
+         - Cohen
+         - Cooper on signing statements (Kristian)
+     
+ - Preview of next week: Supreme Court and Judicial Branch
+   - What are the Supreme Court's powers in U.S. government and politics?
+   - How does the Supreme Court assert its powers and participate in U.S. politics and lawmaking
+   - How do judges and justices on the Supreme Court decide the constitutionality of laws?
+   - Local- and state-level judges are elected. How does this process work?
+   
+ - Presentations for next week?
+   - Howard and Segal: "originalism"
+   - Knight and Epstein: precedent
+   - Mondak and Smithey: public opinion
+   - Gibson, Caldeira, and Spence: 2000 Presidential election
+   - Binder and Maltzman: Advice and consent in judicial nominations
+   - Huber and Gordon: judicial elections
