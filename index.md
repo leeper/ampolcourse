@@ -48,7 +48,7 @@ You can find a schedule for the course, details of the exam structure, and assig
 ---
 ## Assignments and Exam ##
 
-Students will be evaluated via an oral examination with a written synopsis. Students will have an opportunity to share and receive peer feedback on their synopsis before the end of the course.
+Students will be evaluated via an oral examination with a written synopsis. Students will have an opportunity to share and receive peer feedback on their synopsis before the end of the course. [Details about the exam can be found here](Exam/Exam.pdf).
 
 ### Presentations ###
 
