@@ -9,6 +9,7 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
 ## Outline ##
 
  - Procedural details
+   - Discuss the exam
    - I need to leave at 10:00
    - Activity planned for remaining time
  
