@@ -13,7 +13,15 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
    - I need to leave at 10:00
    - Activity planned for remaining time
  
- - Finish up from last week
+ - Preview of next week: Partisan Politics
+   - What does the American party system look like?
+   - What role do political parties have in American politics?
+   - How do citizens identify with parties?
+   - How do citizens choose what party to support?
+   
+ - Presentations for next week?
+   
+  - Finish up from last week
    - Remaining Supreme Court cases
    - What role does the judiciary have in American politics?
    - What benefits and consequences does this have?
@@ -50,6 +58,7 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
          - Most states borrow
      - Different laws
        - Federal separation of powers
+         - Presentation: Sabrina on ObamaCare
          - Congress sets laws that apply universally
          - States have jurisdiction in all other matters
          - Congress can pass laws outside its enumerated powers, but states are not necessarily obligated to follow them
@@ -57,6 +66,10 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
            - Ex.: Federal highways are state-built but federally co-financed
            - Ex.: Social welfare programs are state- or local-administered but federally financed per capita
            - Ex.: Primary and secondary education is mostly locally financed, but federal government provides block grant funding to ensure compliance with federal education policies
+         - States seen as "laboratories"
+           - ObamaCare/ACA implements policy ideas first tried out in states
+           - States adopt policies based on what works in other states
+         - Presentation: Rikke on Volden article
        - Variation in taxes
          - Congress can basically only generate revenue via income tax and tariffs
          - States can tax almost anything, except interstate commerce
@@ -74,6 +87,38 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
            - Property
            - Income in rare cases (very large cities)
      
+     - Federalism creates substantial local level diversity
+       - Three broad categories of residential settings
+         - Urban
+           - Large city centers
+           - Racially and ethnically diverse
+           - Overwhelmingly (esp. in North and West), vote Democratic
+           - Historically run by large, patronage-focused "party machines"
+           - Machine politics still dominates some cities (Chicago, Philadelphia, New Orleans, etc.)
+         - Suburban
+           - Suburban populations exploded since WWII
+           - Dynamics of "white flight"
+           - Suburbs tend to be more white, older, and more conservative than city centers
+         - Rural
+           - Politics of rural areas varies
+           - Tend to be poorer areas, especially in West and South
+       - Local politics is strange
+         - Counties (except in New England) manage courts, police, most roads, other infrastructure, etc.
+         - Sub-county level governments vary a lot
+           - Cities tend to be either "home rule"/"charter" cities with wide authority or limited authority over roads, parks, etc.
+           - Large cities (e.g., New York, San Francisco, etc.) have merged city and county authorities including judicial oversight, etc.
+             - Very large cities may also have sub-city governments with particular geographical or domain
+           - Rural areas often do not have cities and thus no permanent government (direct democracy via "township meeting"; esp. in West and New England)
+         - Elections are odd
+           - Mix of partisan and non-partisan offices
+           - Candidates are often all of the same party
+           - Issues can be weird (e.g., trash handling policy, etc.)
+           - Elections are typically in "off-years" (not simultaneous with national elections)
+           - Extremely low turnout
+           - Local candidates and elected officials may not be career politicians
+             - State legislatures with "low professionalism" and many local offices are seen as "dead-ends"
+           - Presentation: Britta on Oliver and Ha article
+         
      - Direct democracy in the states
        - Background
          - There is no direct democracy at the national level (by design)
@@ -96,14 +141,6 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
          - Involve large spending by interest groups
          - Have relatively low turnout, even in high profile cases
          
- - Preview of next week: Partisan Politics
-   - What does the American party system look like?
-   - What role do political parties have in American politics?
-   - How do citizens identify with parties?
-   - How do citizens choose what party to support?
-   
- - Presentations for next week?
-   
  - Activity
    - Working in pairs, research state-to-state variation in a policy area
    - Think about:
@@ -111,19 +148,5 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
      - Why do states differ in their policies in this area?
      - What implications do these state-to-state variations have?
      - What role, if any, does the federal government play in this policy area?
-   - Laws
-     - Gun laws ("conceal carry"/"open carry" status, age restrictions)
-     - Death penalty laws and use
-     - Cigarette and alcohol laws (e.g., taxation, minimum age of purchase, drunk-driving laws) 
-     - Rights of gays and lesbians (e.g., marriage, job protections)
-     - Legal status of abortion
-     - Term limits for elected officials
-     - Tax rates (e.g., on income, property, sales/VAT, gasoline)
-     - Legal status of marijuana
-     - The minimum hourly wage for employees
-     - Laws governing judiciary (are judges elected? spending limits? partisan endorsements?)
-     - Laws regulating voting (e.g., voter registration requirements, "Voter ID" laws, etc.)
-     - Trade union "right to work" laws
-     - Primary and secondary education standards (see "No Child Left Behind" and "Common Core")
-   - 5-minute Present in class next week
+   - 5-minute presentation in class next week
    
