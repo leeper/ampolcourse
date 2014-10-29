@@ -44,7 +44,7 @@ You can find a schedule for the course, details of the exam structure, and assig
  - Week 4: [Neustadt Reading](https://dl.dropboxusercontent.com/u/414906/Neustadt.pdf)
  - Week 5: [Slides](Slides/Week5.pdf), [Activity](Activities/Week5.pdf)
  - Week 6: [Slides](Slides/Week6.pdf), [Activity](Activities/Week6.pdf)
-
+ - Week 7: [Assignment due Week 8](Activities/Week7.pdf)
 
 ---
 ## Assignments and Exam ##
