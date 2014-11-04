@@ -1,30 +1,23 @@
 ---
 layout: default
-title: Week 8: Campaigning and Elections
+title: Week 10: Politics of Race and Inequality
 ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
 ---
 
-# Campaigning and Elections #
+# Politics of Race and Inequality #
 
 ## Outline ##
 
  - Exam question:
-   - "How does a bill become law in the United States and why is that process so difficult?"
+   - "What role do state play in the development of policy in the United States?"
  
  - Procedural details
    - Preview of next week
-   - Exam preparation
-   - Individual meetings available Nov. 17,18,19
-   - Week 47: Politics of Race and Inequality
+   - Synopsis defense
+   - Week 49: ???
+   - Week 50: Review
  
  
- 
- - Two party system
-   - Continue conversation but more focused
- 
- - Share election insights in small groups
- 
- - Polarization
  
  - Exam preparation:
    - "How much and what kinds of impact do parties have on politics and policymaking in the United States?"
