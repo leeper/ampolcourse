@@ -22,7 +22,8 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
    - Week 49: Polarization
    - Week 50: Review
  
- - Activity I: Define equality
+ 
+   - Activity I: Define equality
    - Economic equality (opportunity, outcomes)
    - Political equality
    - Social/racial/ethnic equality
@@ -33,8 +34,8 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
    - What parties talk about inequality? Who votes for Democrats vs. Republicans?
 
  - Economic inequality
-   - Tax levels
-   
+   - Tax levels are at historic lows; system is still progressive
+   - Income inequality increasing   
    
  - Why do we care about equality? What consequences does inequality have?
    - Participation
@@ -69,8 +70,21 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
  - What does the U.S. do? Policies related to inequality in the US
    - Taxes
      - Tax rates
+       - 16th Amendment (1913) provides income tax
+       - 39.6% over $400k; 10% for first $8k
+       - Effective tax rates: 1% for median income; 20% for top 1%
+       - Capital gains taxes are lower
+       - Corporate tax rates have declined over time
+       - Personal income tax rates were as high as 90% in the 1960s; lowest rates are relatively stable (cut by Reagan)
      - Tax credits
-     - Tax deducions
+       - Earned Income Tax Credit
+       - Child credits
+       - Education credits
+       - First-time homebuyer credits
+     - Tax deductions
+       - Business expenses
+       - Charitable contributions
+       - Mortgage interest
    - Welare policies
      - Entitlements
      - Means-tested
@@ -111,11 +125,13 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
    
  
  - Race
-   - History of race
    - Indigenous peoples
+     - Tocqueville
    - African Americans and racism
-   - *Eyes on the Prize*: Bridge to Freedom: https://www.youtube.com/watch?v=yvmBuxPLZWs&list=PLf7HS0BYSuKEejBWOaPc8spKzFdIuo6rk&index=6
- 
+     - History of race
+     - https://www.youtube.com/watch?v=UlYPMlHl-88
+     - Start at 8:01 (Plessy v. Ferguson); Until 47:38
+   
  - Policies relevant to race
    - Voting Rights Act of 1965
      - Enforce 14th and 15th Amendments
@@ -163,9 +179,18 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
        - Hate crimes
      - Military service (Don't Ask Don't Tell)
  
+ - Debate
+   - What are the facts of equality and inequality in the United States? How equal is American society?
+   - Proposition: The American federal government does not do enough to reduce inequality.
+     - Pro arguments
+     - Con arguments
+
  - The idea of a liberal society
    - Is the United States a liberal society?
- 
+   - Does it make sense to provide the courts power over matters of equality?
+   - Does it make sense to provide states with power over matters of equality?
+
+
  - Exam preparation:
    - "How much and what kinds of impact do parties have on politics and policymaking in the United States?"
    - Something about Congress
