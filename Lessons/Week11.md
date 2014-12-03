@@ -43,7 +43,9 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
      - Guns
      - Immigration
      - Health care
-     
+   - What causes polarization?
+   
+   - Debate!
  
  
  - Obama's immigration announcement
@@ -56,4 +58,7 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
        - Executive branch only has the authority to make rules consistent with Congressional intent
    - What's the political response?
  
- 
+ - Questions
+   1) Do we need a research question?
+   2) How much of the syllabus should be in the synopsis?
+   3) Do we need a reference list?
