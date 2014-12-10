@@ -45,6 +45,7 @@ You can find a schedule for the course, details of the exam structure, and assig
  - Week 5: [Slides](Slides/Week5.pdf), [Activity](Activities/Week5.pdf)
  - Week 6: [Slides](Slides/Week6.pdf), [Activity](Activities/Week6.pdf)
  - Week 7: [Assignment due Week 8](Activities/Week7.pdf)
+ - Week 12: [Slides](Slides/Week12.pdf)
 
 ---
 ## Assignments and Exam ##

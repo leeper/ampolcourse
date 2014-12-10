@@ -14,6 +14,8 @@ This repository holds course materials for my [American Politics Seminar](http:/
  - [Week 08](Lessons/Week8.md)
  - Week 09: See syllabus
  - [Week 10](Lessons/Week10.md)
+ - [Week 11](Lessons/Week11.md)
+ - [Week 12](Lessons/Week12.md)
 
 ## Why GitHub? ##
 
