@@ -8,10 +8,13 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
 
 ## Outline ##
 
+ - Exam procedures
+ 
  - Exam preparation:
    - "To what extent is the United States an equal society? What consequences does this level of equality have?"
    - "To what extent is the United States a politically polarized society? What consequences does this have?"
  
+
  - Polarization Activity
    - What does polarization mean?
      - What is ideological sorting?
@@ -34,6 +37,10 @@ ghurl: https://github.com/leeper/ampolcourse/tree/gh-pages
  
  - Major themes to take-away about American politics
  
+ - Big idea: The idea of a liberal society
+   - Is the United States a liberal society?
+   - Does it make sense to provide the courts power over matters of equality?
+   - Does it make sense to provide states with power over matters of equality?
+
  - Comparative implications
  
-   
