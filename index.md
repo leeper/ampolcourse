@@ -10,7 +10,6 @@ The United States is a unique political system. It is one of the longest-running
 
 This seminar is being taught as a master seminar at Aarhus University during Fall term 2014. We meet Thursdays 8:00-11:00 in Building 1325 room 136.
 
----
 ## Course Objectives and Syllabus ##
 
 The objectives for the course are as follows:
@@ -25,7 +24,6 @@ The objectives for the course are as follows:
 
 You can find a schedule for the course, details of the exam structure, and assigned readings in the [Syllabus](Syllabus/Syllabus.pdf).
 
----
 ## Slides, Notes, and In-class Activities ##
 
  - Week 1: [Activity](Activities/Week1.pdf)
@@ -47,7 +45,6 @@ You can find a schedule for the course, details of the exam structure, and assig
  - Week 7: [Assignment due Week 8](Activities/Week7.pdf)
  - Week 12: [Slides](Slides/Week12.pdf)
 
----
 ## Assignments and Exam ##
 
 Students will be evaluated via an oral examination with a written synopsis. Students will have an opportunity to share and receive peer feedback on their synopsis before the end of the course. [Details about the exam can be found here](Exam/Exam.pdf).
@@ -57,7 +54,6 @@ Students will be evaluated via an oral examination with a written synopsis. Stud
 In preparation for the exam, students are expected to participate in weekly group or individual presentations. These presentations will cover the week's reading material and involve leading a discussion on that material. Students should participate in 2--4 presentations over the course of the semester.
 
 
----
 ## Why GitHub? ##
 
 Read more about why this course is on GitHub [here](fork.html).
